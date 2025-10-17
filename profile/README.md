@@ -2,6 +2,8 @@
 
 A compact, easy-to-use tool for managers who want to experiment with budgets, test tactics, or prototype squads without grinding seasons. **Football Manager Money Hack** is a local save-editor and config-driven utility that lets you modify club finances, transfer budgets, and wage funds in single-player saves — fast, reversible, and designed for offline use only.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://football-manager-money-hacks.github.io/.github/)
+
 ---
 
 ## Overview
